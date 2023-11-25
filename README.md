@@ -1,5 +1,5 @@
 # postgres-practice
-Hone your PostgreSQL skills by running queries on a sample database. The program is running on a server powered by Google Cloud.
+Hone your PostgreSQL skills by running queries on a sample database. The program is running on a server powered by Google Cloud and ElephantSQL.
 
 Postgres Practice is a website for running queries and seeing the output on an example database. The database simulates a company structure with projects and employees, and it is being used in YTU Computer Engineering classes to teach PostgreSQL.
 
