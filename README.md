@@ -1,5 +1,5 @@
 # postgres-practice
-Hone your PostgreSQL skills by running queries on a sample database. Powered by Google Cloud
+Hone your PostgreSQL skills by running queries on a sample database. The program is running on a server powered by Google Cloud.
 
 Postgres Practice is a website for running queries and seeing the output on an example database. The database simulates a company structure with projects and employees, and it is being used in YTU Computer Engineering classes to teach PostgreSQL.
 
@@ -19,7 +19,7 @@ Postgres Practice is a website for running queries and seeing the output on an e
    
 
 
-# Usage
+## Usage
 
 Enter any PostgreSQL query and click "Execute", the output will appear on the page. Select "Show Row Indexes" if you want indexes to be displayed on each row.<br>
 Here are some example queries:
@@ -40,6 +40,11 @@ HAVING SUM(w.hours)>30
     
 
 Note that the database currently is read-only, queries such as UPDATE and DELETE are not supported. I'm working on a solution to allow users to modify the database
+
+## Contact
+
+For problems or suggestions raise an [Issue](https://github.com/atahanuz/sorting-benchmark/issues/new) in this repo and I'll happily respond.<br> 
+You can mail me at atahanuz23@gmail.com too but it'd be better if you raise an Issue so everyone can see and contribute to the discussion. It also sends a notification to my phone so I'll be able to respond faster.
 
 
 
